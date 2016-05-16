@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  MyViewController2.h
 //  Demo1_导航栏
 //
 //  Created by tarena on 16/4/18.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface MyViewController2 : UIViewController
 
 @end
-
